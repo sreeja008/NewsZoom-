@@ -44,6 +44,6 @@ Usage
 3. Click the "Summarize" button
 4. View the summary, sentiment analysis, and other article details
    
-Author: vaishnav muriki
-Email: vaishpaa@gmail.com
+Author: Rajavarapu sreeja
+Email: rsreeja2487@gmail.com
 
